@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework6">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_1/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_1/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_1/Flayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_1/TestBirdDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/FahrenheitConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/KelvinConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDeviceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/Volume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/RemoteControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/TVDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/Volume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_2/FahrenheitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/FahrenheitConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_2/KelvinConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/KelvinConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDeviceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDeviceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_3/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/Volume.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson_7.Task_4.RemoteDevise.Test">
+  <component name="RunManager" selected="Application.MyDeviceTest">
     <configuration name="Lesson_7.Task_4.RemoteDevise.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson_7.Task_4.RemoteDevise.Test" />
       <module name="Course" />
@@ -109,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson_7.Task_4.RemoteDevise.Test" />
         <item itemvalue="Application.MyDeviceTest" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Lesson_7.Task_4.RemoteDevise.Test" />
         <item itemvalue="Application.TestBirdDuck" />
       </list>
     </recent_temporary>
@@ -156,21 +142,11 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Lesson_7/Task_2/Test.java</url>
           <line>3</line>
-          <properties class="Lesson_7.Task_2.Test" method="main">
+          <properties class="Lesson_7.Task_2.Test">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_7/Task_3/MyDevice.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_7/Task_3/MyDeviceTest.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/Test.java</url>

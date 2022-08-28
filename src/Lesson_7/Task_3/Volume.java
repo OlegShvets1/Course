@@ -11,6 +11,6 @@ Create a new class "MyDevice" which implements both interfaces. Provide your imp
 
 
 public interface Volume {
-    void changeVolume(double value);
+    void changeVolume(int value);
 }
 
