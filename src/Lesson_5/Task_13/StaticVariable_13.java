@@ -27,4 +27,7 @@ public class StaticVariable_13 {
         System.out.println(variable2);
         System.out.println(variable);
     }
+    public static void main(String[] arg){
+        test();
+    }
 }

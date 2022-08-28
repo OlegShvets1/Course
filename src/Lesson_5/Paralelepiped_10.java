@@ -18,7 +18,7 @@ public class Paralelepiped_10 {
         b = 20;
         c = 30;
     }
-    public static Paralelepiped_10 MakeParalelepiped_10(){
+    public static Paralelepiped_10 makeParalelepiped_10(){
         return new Paralelepiped_10();
     }
 }

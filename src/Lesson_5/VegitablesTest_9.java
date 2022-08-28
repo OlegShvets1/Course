@@ -11,7 +11,7 @@ package Lesson_5;
 public class VegitablesTest_9 {
     public  static  void main(String[] arg){
         Vegitables_9 v = new  Vegitables_9("Tomat", 150, "Red");
-        System.out.println("(v.Color) - "+v.Color);
+        System.out.println("(v.Color) - "+v.color);
         System.out.println("(v.Name) - Eror: Name - has private access in Vegitables_9");
         System.out.println("(v.Weight) - Eror: Weight has private access in Vegitables_9");
     }

@@ -20,22 +20,22 @@ package Lesson_5.FirstPackage_7;
 
 public class Footbal_7 {
 
-    public String Name;
-    public int Age;
-    public int Weight;
+    public String name;
+    public int age;
+    public int weight;
 
 
-    public Footbal_7(String Name, int Age, int Weight){
-        this.Name = Name;
-        this.Age = Age;
-        this.Weight = Weight;
+    public Footbal_7(String name, int age, int weight){
+        this.name = name;
+        this.age = age;
+        this.weight = weight;
 
     } public  static void main (String[] arg){
         Footbal_7 a = new Footbal_7("Ronaldo", 38, 74);
 
-        System.out.println("Name - "+a.Name+" Age - " + a.Age + " Weight - "+ a.Weight);
+        System.out.println("Name - "+a.name+" Age - " + a.age + " Weight - "+ a.weight);
         Tenis_7 b = new Tenis_7(80000, "Wiliams");
-        System.out.println("Salary - "+b.Salary+" Name - "+ b.NameOfTenisist);
+        System.out.println("Salary - "+b.salary+" Name - "+ b.nameOfTenisist);
 
     }
 }

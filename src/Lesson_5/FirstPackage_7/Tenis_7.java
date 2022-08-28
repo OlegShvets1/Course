@@ -9,10 +9,10 @@ package Lesson_5.FirstPackage_7;
 */
 
 class Tenis_7 {
-    int Salary;
-    String NameOfTenisist;
-    Tenis_7(int Salary, String NameOfTenisist){
-        this. Salary = Salary;
-        this.NameOfTenisist = NameOfTenisist;
+    int salary;
+    String nameOfTenisist;
+    Tenis_7(int salary, String nameOfTenisist){
+        this. salary = salary;
+        this.nameOfTenisist = nameOfTenisist;
     }
 }

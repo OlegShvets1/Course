@@ -9,24 +9,12 @@ package Lesson_5.SecondPackage_7;
         - Create in one of the classes some package-private members(fields or methods).
         - In another two classes create objects of the class with package-private members and try to access its members.*/
 
-import Lesson_5.FirstPackage_7.Footbal_7;
 public class Box_7 {
-    String BoxerName;
-    int WeightCategory;
+    String boxerName;
+    int weightCategory;
 
-    public Box_7(String BoxerName, int WeightCategory) {
-        this.BoxerName = BoxerName;
-        this.WeightCategory = WeightCategory;}
-    public static void main (String[]arg){
-        Box_7 c = new Box_7("Klitchko", 98);
+    public Box_7(String boxerName, int weightCategory) {
+        this.boxerName = boxerName;
+        this.weightCategory = weightCategory;}
 
-        System.out.println("Boxer name - " + c.BoxerName + " Weight category - " + c.WeightCategory);
-
-        Footbal_7 a = new Footbal_7("Ronaldo", 38, 74);
-
-        System.out.println("Name - "+a.Name+" Age - " + a.Age + " Weight - "+ a.Weight);
-
-        System.out.println("class Tenis_7 has Package-private access prevents the content of a class from being used outside of that package ");
-
-    }
 }

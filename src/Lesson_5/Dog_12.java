@@ -26,49 +26,49 @@ public class Dog_12 {
         return name;
     }
 
-    public static void setName(String name) {
-        Dog_12.name = name;
+    public  void setName(String name) {
+        this.name = name;
     }
 
     public static int getAge() {
         return age;
     }
 
-    public static void setAge(int age) {
-        Dog_12.age = age;
+    public  void setAge(int age) {
+        this.age = age;
     }
 
     public static int getWeight() {
         return weight;
     }
 
-    public static void setWeight(int weight) {
-        Dog_12.weight = weight;
+    public  void setWeight(int weight) {
+        this.weight = weight;
     }
 
     public static String getColor() {
         return color;
     }
 
-    public static void setColor(String color) {
-        Dog_12.color = color;
+    public  void setColor(String color) {
+        this.color = color;
     }
 
     public static String getBreed() {
         return breed;
     }
 
-    public static void setBreed(String breed) {
-        Dog_12.breed = breed;
+    public void setBreed(String breed) {
+        this.breed = breed;
     }
 
     public static void main(String[] arg) {
         Dog_12 dog_12 = new Dog_12();
-        setName("Rokky");
-        setColor("black");
-        setAge(3);
-        setWeight(12);
-        setBreed("Terrier");
+        dog_12.setName("Rokky");
+        dog_12.setColor("black");
+        dog_12.setAge(3);
+        dog_12.setWeight(12);
+        dog_12.setBreed("Terrier");
         System.out.println("Name - " + getName() + "; Color - " + getColor() + "; Age - " + getAge() + "; Weight - " + getWeight() + "; Breed - " + getBreed()+";");
     }
 }

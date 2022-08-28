@@ -13,19 +13,19 @@ package Lesson_5;
 
 
 public class Vegitables_9 {
-    private String Name;
-    private int Weight;
-    String Color;
+    private String name;
+    private int weight;
+    String color;
 
-    public Vegitables_9(String Name, int Weight, String Color) {
-        this.Name = Name;
-        this.Weight = Weight;
-        this.Color = Color;
+    public Vegitables_9(String name, int weight, String color) {
+        this.name = name;
+        this.weight = weight;
+        this.color = color;
     }
 
     public static void main(String[] arg) {
         Vegitables_9 v = new Vegitables_9("Beethroot", 340, "Red");
-        System.out.println(v.Name + "  " + v.Weight + "  " + v.Color);
+        System.out.println(v.name + "  " + v.weight + "  " + v.color);
 
     }
 }
