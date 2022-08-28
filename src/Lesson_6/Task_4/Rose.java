@@ -21,7 +21,6 @@ public class Rose extends Flover {
     }
 
     @Override
-
     public void grow() {
         super.grow();
         double increase = 0.05;

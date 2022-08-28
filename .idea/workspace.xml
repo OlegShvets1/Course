@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework5">
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_1/Radio_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_1/RelaxTest_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_1/Relax_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_1/Tv_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_2/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/Hyundai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/TestHyundai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_4/Flover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_4/Rose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_4/TestRose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_5/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_5/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_5/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6/Task_5/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_1/Radio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_1/Radio_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_1/Tv_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_1/Tv_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_3/Hyundai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/Hyundai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_3/TestHyundai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/TestHyundai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_3/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_3/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_4/Rose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_4/Rose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6/Task_5/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6/Task_5/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,9 +113,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestHyundai" />
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.TestRose" />
         <item itemvalue="Application.RelaxTest_1" />
-        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
@@ -157,6 +149,11 @@
           <url>file://$PROJECT_DIR$/src/Lesson_6/Task_1/RelaxTest_1.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson_6/Task_3/TestHyundai.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

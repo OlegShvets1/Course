@@ -12,7 +12,7 @@ public class TestHyundai {
 
     public static void main(String[] args) {
 
-        Hyundai hyundai = new Hyundai("Diesel");
+        Hyundai hyundai = new Hyundai("Hyundai Santa Fe", "2114*5444",3000,2400,"Diesel");
         System.out.println("Name - "+ hyundai.getName()+";  Size - " + hyundai.getSize()+";  Engine - "+hyundai.getEngine()+ ";  Weight - "+hyundai.getWeight()+"; Fuel -" + hyundai.getFuelType());
         hyundai.steer('R');
         hyundai.move('4');

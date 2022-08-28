@@ -6,12 +6,12 @@ public class Circle extends Figure {
         this.width = width;
 
     }
-
+@Override
     public  void calculateArea() {
-        double S;
-        S =  Math.PI * Math.pow(width,2);
+        double s;
+        s =  Math.PI * Math.pow(width,2);
 
-        System.out.println("The area of rectangle with radius " + width + " is - " + S+".");
+        System.out.println("The area of rectangle with radius " + width + " is - " + s +".");
     }
 
     public  static void main (String[] arg){

@@ -9,12 +9,10 @@ package Lesson_6.Task_3;
 */
 
 public class Vehicle {
-    private String name;
-    private String size;
+    public String name;
+    public String size;
 
-    public Vehicle(String name, String size) {
-        this.name = name;
-        this.size = size;}
+    public Vehicle() {}
 
     public String getName () {
         return name;
@@ -23,6 +21,11 @@ public class Vehicle {
     public String getSize () {
         return size;
     }
+    public void move(char gear){System.out.println("All vehicles can move");}
+    public void steer(char direction){System.out.println("All vehicles have a steering function");}
+    public void stop(){ System.out.println("All vehicles have a stop function");
+    }
+
 }
 
 

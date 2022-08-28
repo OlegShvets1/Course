@@ -2,23 +2,20 @@ package Lesson_6.Task_3;
 
 public class Car extends Vehicle {
 
-    private int engine;
-    private int weight;
+    public int engine;
+    public int weight;
 
-    public Car(String name, String size, int engine, int weight) {
-        super(name, size);
-        this.engine = engine;
-        this.weight = weight;
-    }
-    Vehicle vehicle;
-    public int getEngine() {
+    public Car() {
+        super();
+            }
+      public int getEngine() {
         return engine;
     }
 
     public int getWeight() {
         return weight;
     }
-
+@Override
     public void steer(char direction) {
         switch (direction) {
             case 'R':
@@ -34,7 +31,7 @@ public class Car extends Vehicle {
         }
 
     }
-
+@Override
     public void move(char gear) {
         switch (gear) {
             case 'R':
