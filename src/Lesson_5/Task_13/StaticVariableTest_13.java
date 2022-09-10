@@ -8,8 +8,8 @@ package Lesson_5.Task_13;
 public class StaticVariableTest_13 {
 
     public static void main(String[] arg){
+        StaticVariable_13.test();
         StaticVariable_13 var = new StaticVariable_13();
-        var.test();
         System.out.println();
         var.test1();
     }

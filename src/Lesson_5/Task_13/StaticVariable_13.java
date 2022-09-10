@@ -21,7 +21,7 @@ public class StaticVariable_13 {
     public static void test() {
         System.out.println(variable);
         System.out.println("''System.out.println(variable2)''  -  Eror  -  it is not possible to refer to a non-static field in a static method");
-    }
+            }
 
     public void test1() {
         System.out.println(variable2);
