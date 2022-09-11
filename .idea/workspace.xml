@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework9">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +40,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StaticVariableTest_13">
-    <configuration name="ParalelepipedTest_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_5.ParalelepipedTest_10" />
+  <component name="RunManager" selected="Application.Main_2">
+    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_2.Main_2" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_5.*" />
+          <option name="PATTERN" value="Lesson_8.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_2" />
         <item itemvalue="Application.StaticVariableTest_13" />
         <item itemvalue="Application.StaticVariable_13" />
         <item itemvalue="Application.VegitablesTest_9" />
         <item itemvalue="Application.Test_7" />
-        <item itemvalue="Application.ParalelepipedTest_10" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java</url>
           <line>29</line>
-          <properties class="Lesson_5.Task_13.StaticVariable_13" method="main">
+          <properties class="Lesson_5.Task_13.StaticVariable_13">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
