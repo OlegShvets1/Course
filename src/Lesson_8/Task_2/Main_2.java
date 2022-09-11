@@ -27,10 +27,11 @@ public class Main_2 {
         try {
             return a / b;
         } catch (ArithmeticException e) {
+            if (b == 0) {
+                throw new ArithmeticException("Divided by zero operation cannot possible");
+                 }
+        return a/b;
 
-            System.out.println("Divided by zero operation cannot possible");
         }
-
-        return a;
     }
 }

@@ -25,9 +25,11 @@ public class Main_3 {
             int b = 10 / a;
             int[] c = {1};
             System.out.println(c[1]);
-        } catch (ArithmeticException | ArrayIndexOutOfBoundsException e) {
-            System.out.println("Divided by zero operation cannot possible");
-            System.out.println("Element in the array was not found");
+        } catch (ArithmeticException e){
+            System.out.println(e.getCause());
+
+        } catch (ArrayIndexOutOfBoundsException e1){
+            System.out.println(e1.getCause());
         }
     }
 }
