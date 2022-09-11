@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework8">
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/RepeatedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/RepeatedWords_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_9/song.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework9">
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExportToHTMLSettings">
-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Course\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main_lesson_9" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -38,21 +37,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/1/IdeaProjects/Course/src/Lesson_9&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\1\IdeaProjects\Course\src\Lesson_9" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.RepeatedWords_1">
-    <configuration name="Lesson_9.T_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_9.T_9" />
+  <component name="RunManager" selected="Application.Main_2">
+    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_2.Main_2" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_9.*" />
+          <option name="PATTERN" value="Lesson_8.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_9.RepeatedWords" />
+    <configuration name="StaticVariableTest_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.Task_13.StaticVariableTest_13" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_9.*" />
+          <option name="PATTERN" value="Lesson_5.Task_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedWords_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_9.RepeatedWords_1" />
+    <configuration name="StaticVariable_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.Task_13.StaticVariable_13" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_9.*" />
+          <option name="PATTERN" value="Lesson_5.Task_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_9.T9" />
+    <configuration name="Test_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.SecondPackage_7.Test_7" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_9.*" />
+          <option name="PATTERN" value="Lesson_5.SecondPackage_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_8.Infinity.Task_9" />
+    <configuration name="VegitablesTest_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.VegitablesTest_9" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_8.Infinity.*" />
+          <option name="PATTERN" value="Lesson_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RepeatedWords_1" />
-        <item itemvalue="Application.RepeatedWords" />
-        <item itemvalue="Application.T9" />
-        <item itemvalue="Application.Lesson_9.T_9" />
-        <item itemvalue="Application.Task_9" />
+        <item itemvalue="Application.Main_2" />
+        <item itemvalue="Application.StaticVariableTest_13" />
+        <item itemvalue="Application.StaticVariable_13" />
+        <item itemvalue="Application.VegitablesTest_9" />
+        <item itemvalue="Application.Test_7" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661100839404</updated>
     </task>
+    <task id="LOCAL-00001" summary="asd">
+      <created>1661101736274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661101736274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,94 +146,40 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="14" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson_5/FirstPackage_1/BookWhiteFang_1.java</url>
+          <line>19</line>
+          <properties class="Lesson_5.FirstPackage_1.BookWhiteFang_1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java</url>
+          <line>29</line>
+          <properties class="Lesson_5.Task_13.StaticVariable_13">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_3/Main_3.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_3/Main_3.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_4/Task_4.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Infinity/Task_9.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/T_9.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson_5/SecondPackage_7/Test_7.java</url>
           <line>4</line>
-          <option name="timeStamp" value="38" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_9/RepeatedWords.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson_5/SecondPackage_7/Test_7.java</url>
           <line>6</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_9/RepeatedWords_1.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java</url>
-          <line>3</line>
-          <properties class="Lesson_8.Task_1.TestTask_1">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_6/Task_6.java</url>
-          <line>14</line>
-          <properties class="Lesson_8.Task_6.Task_6">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>
-          <line>48</line>
-          <properties class="Lesson_8.Task_7.Example">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lesson_9/RepeatedWords.java</url>
-          <line>8</line>
-          <properties class="Lesson_9.RepeatedWords" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="61" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
