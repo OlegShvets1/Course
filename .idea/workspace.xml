@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework6">
+    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_2/FahrenheitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/FahrenheitConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_2/KelvinConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_2/KelvinConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDeviceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/MyDeviceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_7/Task_3/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_7/Task_3/Volume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main_lesson_9" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -40,13 +41,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyDeviceTest">
-    <configuration name="Lesson_7.Task_4.RemoteDevise.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.Task_4.RemoteDevise.Test" />
+  <component name="RunManager" selected="Application.StaticVariableTest_13">
+    <configuration name="ParalelepipedTest_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.ParalelepipedTest_10" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_7.Task_4.RemoteDevise.*" />
+          <option name="PATTERN" value="Lesson_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDeviceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.Task_3.MyDeviceTest" />
+    <configuration name="StaticVariableTest_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.Task_13.StaticVariableTest_13" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_7.Task_3.*" />
+          <option name="PATTERN" value="Lesson_5.Task_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.Task_2.Test" />
+    <configuration name="StaticVariable_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.Task_13.StaticVariable_13" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_7.Task_2.*" />
+          <option name="PATTERN" value="Lesson_5.Task_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBirdDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_7.Task_1.TestBirdDuck" />
+    <configuration name="Test_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.SecondPackage_7.Test_7" />
       <module name="Course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_7.Task_1.*" />
+          <option name="PATTERN" value="Lesson_5.SecondPackage_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VegitablesTest_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_5.VegitablesTest_9" />
+      <module name="Course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyDeviceTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Lesson_7.Task_4.RemoteDevise.Test" />
-        <item itemvalue="Application.TestBirdDuck" />
+        <item itemvalue="Application.StaticVariableTest_13" />
+        <item itemvalue="Application.StaticVariable_13" />
+        <item itemvalue="Application.VegitablesTest_9" />
+        <item itemvalue="Application.Test_7" />
+        <item itemvalue="Application.ParalelepipedTest_10" />
       </list>
     </recent_temporary>
   </component>
@@ -111,12 +126,12 @@
       <option name="presentableId" value="Default" />
       <updated>1661100839404</updated>
     </task>
-    <task id="LOCAL-00001" summary="Homework6">
-      <created>1661184614950</created>
+    <task id="LOCAL-00001" summary="asd">
+      <created>1661101736274</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1661184614950</updated>
+      <updated>1661101736274</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -133,25 +148,39 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework6" />
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lesson_7/Task_2/Test.java</url>
-          <line>3</line>
-          <properties class="Lesson_7.Task_2.Test">
+          <url>file://$PROJECT_DIR$/src/Lesson_5/FirstPackage_1/BookWhiteFang_1.java</url>
+          <line>19</line>
+          <properties class="Lesson_5.FirstPackage_1.BookWhiteFang_1">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson_5/Task_13/StaticVariable_13.java</url>
+          <line>29</line>
+          <properties class="Lesson_5.Task_13.StaticVariable_13" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lesson_7/Task_4/RemoteDevise/Test.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/src/Lesson_5/SecondPackage_7/Test_7.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson_5/SecondPackage_7/Test_7.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
