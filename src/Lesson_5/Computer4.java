@@ -2,7 +2,7 @@ package Lesson_5;
 
 /*10. Create a simple class with overloaded methods. Write another class to demonstrate the concept of methods overloading.*/
 
-public class Computer_4 {
+public class Computer4 {
     public void system(int a) {
         System.out.println(a);
     }
