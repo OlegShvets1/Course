@@ -8,10 +8,10 @@ public class Rectangle extends Figure {
     }
 
     public  void calculateArea() {
-        double S;
-        S = width * height;
+        double s;
+        s = width * height;
 
-        System.out.println("The area of rectangle with sides " + width + " and " + height+ " is - " + S);
+        System.out.println("The area of rectangle with sides " + width + " and " + height+ " is - " + s);
     }
 
     public  static void main (String[] arg){

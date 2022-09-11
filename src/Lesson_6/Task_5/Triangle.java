@@ -8,10 +8,10 @@ public class Triangle extends Figure {
     }
 
     public void calculateArea() {
-        double S;
-        S = width * height * 0.5;
+        double s;
+        s = width * height * 0.5;
 
-        System.out.println("The area of triangle with sides " + width + " and " + height + " is - " + S);
+        System.out.println("The area of triangle with sides " + width + " and " + height + " is - " + s);
     }
 
     public static void main(String[] arg) {
