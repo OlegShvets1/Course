@@ -1,0 +1,183 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a684b5d1-6c95-432c-8d90-884069701209\" name=\"Changes\" comment=\"Homework7Changed\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_1/Task_1.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_3/Main_3.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_4/Task_4.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_5/Main_5.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_6/Task_6.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main_lesson_7\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2DfrAaeyq4vGM74XR8pERkjtcTH\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.Example\">\r\n    <configuration name=\"Example\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_8.Task_7.Example\" />\r\n      <module name=\"Course\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_8.Task_7.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Example_7\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_8.Task_7.Example_7\" />\r\n      <module name=\"Course\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_8.Task_7.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task_6\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_8.Task_6.Task_6\" />\r\n      <module name=\"Course\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_8.Task_6.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task_9\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_8.Infinity.Task_9\" />\r\n      <module name=\"Course\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_8.Infinity.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"t9\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lesson_8.Infinity.t9\" />\r\n      <module name=\"Course\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lesson_8.Infinity.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Example\" />\r\n        <item itemvalue=\"Application.Task_9\" />\r\n        <item itemvalue=\"Application.t9\" />\r\n        <item itemvalue=\"Application.Example_7\" />\r\n        <item itemvalue=\"Application.Task_6\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a684b5d1-6c95-432c-8d90-884069701209\" name=\"Changes\" comment=\"\" />\r\n      <created>1661100839404</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1661100839404</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java</url>\r\n          <line>2</line>\r\n          <option name=\"timeStamp\" value=\"14\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_3/Main_3.java</url>\r\n          <line>20</line>\r\n          <option name=\"timeStamp\" value=\"15\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_3/Main_3.java</url>\r\n          <line>17</line>\r\n          <option name=\"timeStamp\" value=\"16\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_4/Task_4.java</url>\r\n          <line>14</line>\r\n          <option name=\"timeStamp\" value=\"18\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>\r\n          <line>54</line>\r\n          <option name=\"timeStamp\" value=\"32\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Infinity/Task_9.java</url>\r\n          <line>11</line>\r\n          <option name=\"timeStamp\" value=\"34\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>\r\n          <line>63</line>\r\n          <option name=\"timeStamp\" value=\"36\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java</url>\r\n          <line>3</line>\r\n          <properties class=\"Lesson_8.Task_1.TestTask_1\" method=\"main\">\r\n            <option name=\"EMULATED\" value=\"true\" />\r\n            <option name=\"WATCH_EXIT\" value=\"false\" />\r\n          </properties>\r\n          <option name=\"timeStamp\" value=\"17\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_6/Task_6.java</url>\r\n          <line>14</line>\r\n          <properties class=\"Lesson_8.Task_6.Task_6\" method=\"main\">\r\n            <option name=\"EMULATED\" value=\"true\" />\r\n            <option name=\"WATCH_EXIT\" value=\"false\" />\r\n          </properties>\r\n          <option name=\"timeStamp\" value=\"19\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>\r\n          <line>48</line>\r\n          <properties class=\"Lesson_8.Task_7.Example\" method=\"equals\">\r\n            <option name=\"EMULATED\" value=\"true\" />\r\n            <option name=\"WATCH_EXIT\" value=\"false\" />\r\n          </properties>\r\n          <option name=\"timeStamp\" value=\"33\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,16 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework7Changed">
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_1/Task_1.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_3/Main_3.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_4/Task_4.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_5/Main_5.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_6/Task_6.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java" afterDir="false" />
++    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework5">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_8/Task_2/Main_2.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -27,7 +20,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="main_lesson_7" />
++        <entry key="$PROJECT_DIR$" value="main_lesson_6" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -47,13 +40,13 @@
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.Example">
+-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_7.Example" />
++  <component name="RunManager" selected="Application.TestTask_1">
++    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_2.Main_2" />
+       <module name="Course" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lesson_8.Task_7.*" />
++          <option name="PATTERN" value="Lesson_8.Task_2.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -61,12 +54,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Example_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_7.Example_7" />
++    <configuration name="T_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lesson_8.T_9" />
+       <module name="Course" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lesson_8.Task_7.*" />
++          <option name="PATTERN" value="Lesson_8.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -74,12 +67,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_6.Task_6" />
++    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lesson_8.Infinity.Task_9" />
+       <module name="Course" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lesson_8.Task_6.*" />
++          <option name="PATTERN" value="Lesson_8.Infinity.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -87,12 +80,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Task_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lesson_8.Infinity.Task_9" />
++    <configuration name="TestTask_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lesson_8.Task_1.TestTask_1" />
+       <module name="Course" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lesson_8.Infinity.*" />
++          <option name="PATTERN" value="Lesson_8.Task_1.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -115,11 +108,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.Example" />
++        <item itemvalue="Application.TestTask_1" />
++        <item itemvalue="Application.Main_2" />
+         <item itemvalue="Application.Task_9" />
++        <item itemvalue="Application.T_9" />
+         <item itemvalue="Application.t9" />
+-        <item itemvalue="Application.Example_7" />
+-        <item itemvalue="Application.Task_6" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -182,11 +175,16 @@
+           <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>
+           <line>63</line>
+           <option name="timeStamp" value="36" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/Lesson_8/T_9.java</url>
++          <line>4</line>
++          <option name="timeStamp" value="38" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-method">
+           <url>file://$PROJECT_DIR$/src/Lesson_8/Task_1/TestTask_1.java</url>
+           <line>3</line>
+-          <properties class="Lesson_8.Task_1.TestTask_1" method="main">
++          <properties class="Lesson_8.Task_1.TestTask_1">
+             <option name="EMULATED" value="true" />
+             <option name="WATCH_EXIT" value="false" />
+           </properties>
+@@ -195,7 +193,7 @@
+         <line-breakpoint enabled="true" type="java-method">
+           <url>file://$PROJECT_DIR$/src/Lesson_8/Task_6/Task_6.java</url>
+           <line>14</line>
+-          <properties class="Lesson_8.Task_6.Task_6" method="main">
++          <properties class="Lesson_8.Task_6.Task_6">
+             <option name="EMULATED" value="true" />
+             <option name="WATCH_EXIT" value="false" />
+           </properties>
+@@ -204,7 +202,7 @@
+         <line-breakpoint enabled="true" type="java-method">
+           <url>file://$PROJECT_DIR$/src/Lesson_8/Task_7/Example.java</url>
+           <line>48</line>
+-          <properties class="Lesson_8.Task_7.Example" method="equals">
++          <properties class="Lesson_8.Task_7.Example">
+             <option name="EMULATED" value="true" />
+             <option name="WATCH_EXIT" value="false" />
+           </properties>
+Index: src/Lesson_8/Task_2/Main_2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Lesson_8.Task_2;\r\n/*   2.   Fix the method with try-catch to get the correct result of division:\r\n\r\npublic class Main {\r\n\r\n    public static void main(String[] args) {\r\n        System.out.println(divideByZero());\r\n    }\r\n\r\n    public static int divideByZero() {\r\n        int a = 5;\r\n        int b = 0;\r\n        return a / b;\r\n    }\r\n}*/\r\n\r\n\r\npublic class Main_2 {\r\n\r\n    public static void main(String[] args) {\r\n        System.out.println(divideByZero());\r\n    }\r\n\r\n    public static int divideByZero() {\r\n        int a = 5;\r\n        int b = 0;\r\n        try {\r\n            return a / b;\r\n        } catch (ArithmeticException e) {\r\n\r\n            System.out.println(\"Divided by zero operation cannot possible\");\r\n        }\r\n\r\n        return a;\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/Lesson_8/Task_2/Main_2.java b/src/Lesson_8/Task_2/Main_2.java
+--- a/src/Lesson_8/Task_2/Main_2.java	
++++ b/src/Lesson_8/Task_2/Main_2.java	
+@@ -27,10 +27,13 @@
+         try {
+             return a / b;
+         } catch (ArithmeticException e) {
++            if (b == 0) {
++                throw new ArithmeticException();
+ 
+-            System.out.println("Divided by zero operation cannot possible");
+-        }
+-
+-        return a;
++            }
++
++        }
++        System.out.println("Divided by zero operation cannot possible");
++        return  
+     }
+-}
++}
+\ No newline at end of file

@@ -1,0 +1,297 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a684b5d1-6c95-432c-8d90-884069701209\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2DfrAaeyq4vGM74XR8pERkjtcTH\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a684b5d1-6c95-432c-8d90-884069701209\" name=\"Changes\" comment=\"\" />\r\n      <created>1661100839404</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1661100839404</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,13 +1,29 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="" />
++    <list default="true" id="a684b5d1-6c95-432c-8d90-884069701209" name="Changes" comment="Homework8">
++      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Task_1/MostRepeatedWord.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lesson_9/Task_1/T_1.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main_lesson_8" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="2DfrAaeyq4vGM74XR8pERkjtcTH" />
+@@ -16,12 +32,32 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
++  <component name="RunManager">
++    <configuration name="MostRepeatedWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lesson_9.Task_1.MostRepeatedWord" />
++      <module name="Course" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="Lesson_9.Task_1.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.MostRepeatedWord" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -33,4 +69,15 @@
+     </task>
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+ </project>
+\ No newline at end of file
+Index: src/Lesson_9/Task_1/MostRepeatedWord.java
+===================================================================
+diff --git a/src/Lesson_9/Task_1/MostRepeatedWord.java b/src/Lesson_9/Task_1/MostRepeatedWord.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lesson_9/Task_1/MostRepeatedWord.java	
+@@ -0,0 +1,55 @@
++//package Lesson_9.Task_1;
++//
++///*1) With the help of HashMap try to calculate all of the unique words in the song Umbrella ignoring the case.
++//   Print all of these words to the console with the number of times they appear in the text.
++//   Find the most frequent word in the text and print it to the console as well.*/
++//
++//
++//
++//import java.io.BufferedReader;
++//import java.io.FileInputStream;
++//import java.io.FileReader;
++//import java.util.ArrayList;
++//
++//    public class MostRepeatedWord {
++//
++//        public static void main(String[] args) throws Exception {
++//            String line, word = "";
++//            int count = 0, maxCount = 0;
++//            ArrayList<String> words = new ArrayList<String>();
++//
++//            //Opens file in read mode
++//            FileInputStream file = new FileInputStream("(C:)/JAVA/song.txt ");
++//          //  BufferedReader br = new BufferedReader(file);
++//
++//            //Reads each line
++//            while((line = br.readLine()) != null) {
++//                String string[] = line.toLowerCase().split("([,.\\s]+) ");
++//                //Adding all words generated in previous step into words
++//                for(String s : string){
++//                    words.add(s);
++//                }
++//            }
++//
++//            //Determine the most repeated word in a file
++//            for(int i = 0; i < words.size(); i++){
++//                count = 1;
++//                //Count each word in the file and store it in variable count
++//                for(int j = i+1; j < words.size(); j++){
++//                    if(words.get(i).equals(words.get(j))){
++//                        count++;
++//                    }
++//                }
++//                //If maxCount is less than count then store value of count in maxCount
++//                //and corresponding word to variable word
++//                if(count > maxCount){
++//                    maxCount = count;
++//                    word = words.get(i);
++//                }
++//            }
++//
++//            System.out.println("Most repeated word: " + word);
++//            br.close();
++//        }
++//    }
++//
+Index: src/Lesson_9/Task_1/RepitedWords.java
+===================================================================
+diff --git a/src/Lesson_9/Task_1/RepitedWords.java b/src/Lesson_9/Task_1/RepitedWords.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lesson_9/Task_1/RepitedWords.java	
+@@ -0,0 +1,131 @@
++package Lesson_9.Task_1;
++
++import java.util.*;
++
++public class RepitedWords {
++
++    public static void main(String[] args) {
++        String song = "Uh huh, uh huh\n" +
++                "Yeah, Rihanna\n" +
++                "Uh huh, uh huh\n" +
++                "Good girl gone bad\n" +
++                "Uh huh, uh huh\n" +
++                "Take three, action\n" +
++                "Uh huh, uh huh, ho\n" +
++                "\n" +
++                "No clouds in my stones\n" +
++                "Let it rain, I hydroplane into fame\n" +
++                "Comin' down at the Dow Jones\n" +
++                "When the clouds come, we gone\n" +
++                "We Rocafella\n" +
++                "We fly higher than weather\n" +
++                "In G5's or better\n" +
++                "You know me\n" +
++                "In anticipation for precipitation stack chips for the rainy day\n" +
++                "Rain man is back with little Ms. Sunshine\n" +
++                "Rihanna, where you at?\n" +
++                "\n" +
++                "You have my heart, and we'll never be worlds apart\n" +
++                "Maybe in magazines, but you'll still be my star\n" +
++                "Baby, 'cause in the dark\n" +
++                "You can't see shiny cars\n" +
++                "And that's when you need me there\n" +
++                "With you I'll always share\n" +
++                "Because\n" +
++                "\n" +
++                "When the sun shines, we shine together\n" +
++                "Told you I'll be here forever\n" +
++                "Said I'll always be your friend\n" +
++                "Took an oath that I'm a stick it out till the end\n" +
++                "Now that it's raining more than ever\n" +
++                "Know that we still have each other\n" +
++                "You can stand under my umbrella\n" +
++                "You can stand under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh, eh, eh, eh\n" +
++                "\n" +
++                "These fancy things will never come in between\n" +
++                "You're part of my entity, here for infinity\n" +
++                "When the world has took its part\n" +
++                "When the world has dealt its cards\n" +
++                "If the hand is hard, together we'll mend your heart\n" +
++                "Because\n" +
++                "\n" +
++                "When the sun shines, we shine together\n" +
++                "Told you I'll be here forever\n" +
++                "Said I'll always be your friend\n" +
++                "Took an oath that I'm a stick it out till the end\n" +
++                "Now that it's raining more than ever\n" +
++                "Know that we still have each other\n" +
++                "You can stand under my umbrella\n" +
++                "You can stand under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh, eh, eh, eh\n" +
++                "\n" +
++                "You can run into my arms\n" +
++                "It's okay, don't be alarmed\n" +
++                "(Come into me)\n" +
++                "(There's no distance in between our love)\n" +
++                "So I'm gonna let the rain pour\n" +
++                "I'll be all you need and more\n" +
++                "Because\n" +
++                "\n" +
++                "When the sun shines, we shine together\n" +
++                "Told you I'll be here forever\n" +
++                "Said I'll always be your friend\n" +
++                "Took an oath that I'm a stick it out till the end\n" +
++                "Now that it's raining more than ever\n" +
++                "Know that we still have each other\n" +
++                "You can stand under my umbrella\n" +
++                "You can stand under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh\n" +
++                "Under my umbrella, ella, ella, eh, eh, eh, eh, eh, eh\n" +
++                "\n" +
++                "It's raining, raining\n" +
++                "Ooh, baby, it's raining, raining\n" +
++                "Baby, come into me\n" +
++                "Come into me\n" +
++                "It's raining, raining\n" +
++                "Ooh, baby, it's raining, raining\n" +
++                "You can always come into me\n" +
++                "Come into me\n" +
++                "It's pouring rain\n" +
++                "It's pouring rain\n" +
++                "Come into me\n" +
++                "Come into me\n" +
++                "It's pouring rain\n" +
++                "It's pouring rain";
++        String song1 = 
++        List< String > paraList = new ArrayList < String > ();
++        paraList = Arrays.asList(para.split(" "));
++        System.out.println(paraList);
++        int size = paraList.size();
++
++        int i = 0;
++        Map < String, Integer > duplicatCountMap = new HashMap < String, Integer > ();
++        for (int j = 0; size > j; j++) {
++            int count = 0;
++            for (i = 0; size > i; i++) {
++                if (paraList.get(j).equals(paraList.get(i))) {
++                    count++;
++                    duplicatCountMap.put(paraList.get(j), count);
++                }
++
++            }
++
++        }
++        System.out.println(duplicatCountMap);
++        List < Integer > myCountList = new ArrayList < > ();
++        Set < String > myValueSet = new HashSet < > ();
++        for (Map.Entry < String, Integer > entry: duplicatCountMap.entrySet()) {
++            myCountList.add(entry.getValue());
++            myValueSet.add(entry.getKey());
++        }
++        System.out.println(myCountList);
++        System.out.println(myValueSet);
++    }
++
++}
+\ No newline at end of file
